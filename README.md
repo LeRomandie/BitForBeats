@@ -2,5 +2,5 @@
 reference links
 
 ## Hacker-space-lab
-[LeReset.org](https://lereset.org/)
-[Labomdeia.org](https://openatelier.labomedia.org/)
+* [LeReset.org](https://lereset.org/)
+* [Labomedia.org](https://openatelier.labomedia.org/)
